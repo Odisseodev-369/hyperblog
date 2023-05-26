@@ -1,1 +1,3 @@
 joder que epico
+poniendo mas palabras
+para probar el git reset HEAD
